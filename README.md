@@ -17,6 +17,7 @@ be undone. Every repo below has tests and CI.
 - **[website-builder-agent](https://github.com/terezakohutova/website-builder-agent)**: an agent and skill for building a multi-language marketing site, written down from a real build, with a sample site and its QA report.
 - **[copy-langcheck](https://github.com/terezakohutova/copy-langcheck)**: spelling and grammar check for marketing copy in Czech, Slovak, Polish, German and English (Hunspell and LanguageTool). It fails the build on a mistake, and also when it could not check the text at all.
 - **[rodopis-genealogy-agents](https://github.com/terezakohutova/rodopis-genealogy-agents)**: 14 agents that research a family tree one person at a time. Facts are checked against the original record and cited, and it only works on deceased ancestors.
+- **[claude-code-token-audit](https://github.com/terezakohutova/claude-code-token-audit)**: finds which Claude Code subagents waste tokens and why, such as tool definitions they carry but never call, screenshots and files read twice. It is one offline Python script that ranks savings proposals, tested on synthetic logs.
 - **[kocicka](https://github.com/terezakohutova/kocicka)**: a desktop cat in a wheelchair who counts your real working time and sends you on a guided break every hour. It is a single Python file with no dependencies, and nothing leaves your computer.
 
 Most of the agents have the persona of a historical figure who did similar
