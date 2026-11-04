@@ -20,6 +20,7 @@ a README points to something you can run.
 - **[ai-marketing-playbook](https://github.com/terezakohutova/ai-marketing-playbook)**: patterns for marketing and e-commerce ops (inventory sync, a partner CRM steward, staged outreach, safe scheduled agents). Two come with a runnable agent, hand-written answer keys and a scorer.
 - **[website-builder-agent](https://github.com/terezakohutova/website-builder-agent)**: an agent and skill that build a multi-language marketing website from brief to go-live: build pipeline, translations, SEO and AI-search visibility, consent, QA across devices and in-app browsers. Ships with a sample site and its real QA report.
 - **[copy-langcheck](https://github.com/terezakohutova/copy-langcheck)**: a spelling and grammar gate for marketing copy in Czech, Slovak, Polish, German and English (Hunspell + LanguageTool) that fails the build on a mistake, and fails loudly when it could not check at all.
+- **[rodopis-genealogy-agents](https://github.com/terezakohutova/rodopis-genealogy-agents)**: a genealogy agency of 14 Claude Code subagents that research a family tree one person at a time, every fact checked against the original record and cited, deceased ancestors only, nothing sent without a person. Works with plain files, a GEDCOM export or MyHeritage; ships with blind runs on a public historical figure.
 
 And one for the people at the desk:
 
