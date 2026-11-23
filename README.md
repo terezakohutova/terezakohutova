@@ -1,9 +1,10 @@
 ### Marketing and partnerships, with AI agents I build myself
 
-I'm the only marketer for e-commerce and fintech brands in Czechia, Slovakia,
-Poland and Germany. Most of the routine work, such as audits, translations and
-checks, runs through Claude Code agents I wrote. I decide what goes out: none of
-the agents can post, pay or launch anything.
+I work on partnerships and marketing at Patron GO, a fintech app, and help a few
+smaller brands on the side. The routine parts (audits, translations, fact checks)
+go to Claude Code agents I write myself. Most of what's here exists because an
+agent once got something wrong and I wrote a rule or a test so it wouldn't happen
+again.
 
 <a href="https://www.linkedin.com/in/terezakohutova/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" /></a>
 
